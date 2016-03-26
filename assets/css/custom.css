@@ -363,6 +363,17 @@ hr{
 
 }
 
+.row-gray {
+	background-color: gray;
+}
+
+.section-heading h1 blockquote {
+	text-align: right;
+	align-content: flex-end;
+}
+
+/* Prestasi */
+
 .container-prestasi{
 	padding-top: 30px;
   padding-right: 105px;

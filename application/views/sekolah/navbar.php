@@ -28,9 +28,9 @@
                     <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Al-Islam<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                          <li><a href="#">Berita Sekolah</a></li>
+                          <li><a href="<?php echo base_url() ?>index.php/sekolah/berita">Berita Sekolah</a></li>
                           <li role="separator" class="divider"></li>
-                          <li><a href="#">Tausiah</a></li>
+                          <li><a href="<?php echo base_url() ?>index.php/sekolah/tausiah">Tausiah</a></li>
                         </ul>
                       </li>
                     <li class="dropdown">

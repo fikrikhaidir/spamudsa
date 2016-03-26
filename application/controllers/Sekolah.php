@@ -146,6 +146,9 @@ class Sekolah extends CI_Controller
 		$this->load->view('sekolah/ppdb');
 	}
 
+	function tausiah(){
+		$this->load->view('sekolah/tausiah');
+	}
 
 }
 
