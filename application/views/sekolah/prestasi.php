@@ -39,16 +39,15 @@ include ("navbar.php");
 
     <!-- Page Header -->
 
-    <header class="intro-header" style="background-image: url('img/bg.jpg')">
-        <div class="container-prestasi">
+
+    <header class="intro-header">
+        <div class="container-news">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-
-                        <big>Prestasi Sekolah</big>
+                        <big>Prestasi</big>
                         <hr class="small">
-                        <span class="subheading">Keterangan mengenai prestasi yang telah diraih SMP Muhammadiyah 10 Surakarta melalui berbagai kesempatan dan kegiatan.</span>
-
+                        <span class="subheading">Segala perkembangan berita mengenai SMP Muhammadiyah 10 Surakarta</span>
                     </div>
                 </div>
             </div>
@@ -59,7 +58,78 @@ include ("navbar.php");
 
 
 
+    <div class="container-staff-main-gray">
+      <div class="row">
+      <?php //foreach ($staff->$result() as $guru) :?>
+        <div class="col-sm-4">
 
+          <?//=img($guru->foto)?>
+
+
+        <?php //endforeach; ?>
+
+          <img src="img/portfolio-2.jpg" class="img-rounded"  alt="gb-2" width="350" height="200">
+        </div>
+        <div class="col-sm-8">
+
+          <h2>Nama Lengkap</h2>
+        </br></br>
+          <h5><strong>Mata Pelajaran &nbsp;&nbsp;&nbsp;: &nbsp;</strong>&nbsp; "Exterminate your problem. Even if it is impossible.</h5>
+          <h5><strong>Biodata Singkat &nbsp; : &nbsp;</strong>&nbsp; Create a world with integrity and Clarity.</h5>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-staff-main">
+      <div class="row">
+        <div class="col-sm-4">
+
+          <img src="img/portfolio-1.jpg" class="img-rounded"  alt="gb-2" width="350" height="200">
+        </div>
+        <div class="col-sm-8">
+
+          <h2>Nama Lengkap</h2>
+        </br></br>
+          <h5><strong>Mata Pelajaran &nbsp;&nbsp;&nbsp;: &nbsp;</strong>&nbsp; "Exterminate your problem. Even if it is impossible.</h5>
+          <h5><strong>Biodata Singkat &nbsp; : &nbsp;</strong>&nbsp; Create a world with integrity and Clarity.</h5>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-staff-main-gray">
+      <div class="row">
+        <div class="col-sm-4">
+
+          <img src="img/portfolio-2.jpg" class="img-rounded"  alt="gb-2" width="350" height="200">
+        </div>
+        <div class="col-sm-8">
+
+          <h2>Nama Lengkap</h2>
+        </br></br>
+          <h5><strong>Mata Pelajaran &nbsp;&nbsp;&nbsp;: &nbsp;</strong>&nbsp; "Exterminate your problem. Even if it is impossible.</h5>
+          <h5><strong>Biodata Singkat &nbsp; : &nbsp;</strong>&nbsp; Create a world with integrity and Clarity.</h5>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-staff-main">
+      <div class="row">
+        <div class="col-sm-4">
+
+          <img src="img/portfolio-1.jpg" class="img-rounded"  alt="gb-2" width="350" height="200">
+        </div>
+        <div class="col-sm-8">
+
+          <h2>Nama Lengkap</h2>
+        </br></br>
+          <h5><strong>Mata Pelajaran &nbsp;&nbsp;&nbsp;: &nbsp;</strong>&nbsp; "Exterminate your problem. Even if it is impossible.</h5>
+          <h5><strong>Biodata Singkat &nbsp; : &nbsp;</strong>&nbsp; Create a world with integrity and Clarity.</h5>
+        </div>
+      </div>
+    </div>
 
 
 

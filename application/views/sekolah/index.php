@@ -38,14 +38,12 @@ include ("navbar.php");
 ?>
 
 <!-- Jumbotron -->
-
+<div class="bg"></div>
 <div class="jumbotron">
-  <P></P>
-</br>
   <center><big>SMP MUHAMMADIYAH 10</big><small></br>Surakarta</small><center>
-  </br></br></br>
-
+  <p class="lead">+ Parallax Effect using jQuery</p>
 </div>
+
 
 <!-- Akreditasi -->
 
@@ -199,6 +197,7 @@ include ("navbar.php");
 
     <!-- jQuery -->
     <script src="<?php echo base_url()?>assets/js/jquery.js"></script>
+    <script src="<?php echo base_url()?>assets/js/parallax.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="<?php echo base_url()?>assets/js/bootstrap.min.js"></script>

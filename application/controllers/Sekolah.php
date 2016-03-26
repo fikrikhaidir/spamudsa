@@ -150,6 +150,10 @@ class Sekolah extends CI_Controller
 		$this->load->view('sekolah/tausiah');
 	}
 
+	function pendaftaran(){
+		$this->load->view('sekolah/pendaftaran');
+	}
+
 }
 
 ?>

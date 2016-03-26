@@ -42,7 +42,7 @@
                           <li role="separator" class="divider"></li>
                           <li><a href="<?php echo base_url() ?>index.php/sekolah/gallery">Gallery</a></li>
                           <li role="separator" class="divider"></li>
-                          <li><a href="<?php echo base_url() ?>index.php/sekolah/ppdb">PPDB</a></li>
+                          <li><a href="<?php echo base_url() ?>index.php/sekolah/pendaftaran">Pendaftaran Online</a></li>
                         </ul>
                       </li>
 

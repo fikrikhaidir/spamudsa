@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tausiah</title>
+    <title>Pendaftaran</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url()?>assets/css/bootstrap.min.css" rel="stylesheet">
@@ -42,15 +42,15 @@ include ("navbar.php");
 ?>
 
 <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
+
     <header class="intro-header">
         <div class="container-news">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-                        <big>Tausiah</big>
+                        <big>Pendaftaran Murid Baru</big>
                         <hr class="small">
-                        <span class="subheading">Segala perkembangan berita mengenai SMP Muhammadiyah 10 Surakarta</span>
+                        <span class="subheading">Informasi, Persyaratan dan Ketentuan mengenai Pendaftaran Murid Baru.</span>
                     </div>
                 </div>
             </div>
@@ -59,25 +59,21 @@ include ("navbar.php");
 
 <!-- Isi Konten -->
 
-      <div class="container-news-main-gray">
-        <h1>"Disini Tulisan Ayatnya"</h1>
-        <blockquote>Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.</blockquote>
-      </div>
+<div class="container-news-main-gray">
+  <h1> masukkan konten </h1>
+</div>
 
-      <div class="container-news-main-white">
-        <h1>"Disini Tulisan Ayatnya"</h1>
-        <blockquote>Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.</blockquote>
-      </div>
+<div class="container-news-main-white">
+  <h1> masukkan konten </h1>
+</div>
 
-      <div class="container-news-main-gray">
-        <h1>"Disini Tulisan Ayatnya"</h1>
-        <blockquote>Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.</blockquote>
-      </div>
+<div class="container-news-main-gray">
+  <h1> masukkan konten </h1>
+</div>
 
-      <div class="container-news-main-white">
-        <h1>"Disini Tulisan Ayatnya"</h1>
-        <blockquote>Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.Disini Pengertian dan keterangannya. Disini Pengertian dan keterangannya.</blockquote>
-      </div>
+<div class="container-news-main-white">
+  <h1> masukkan konten </h1>
+</div>
 
 
 
