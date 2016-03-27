@@ -41,7 +41,6 @@ include ("navbar.php");
 <div class="bg"></div>
 <div class="jumbotron">
   <center><big>SMP MUHAMMADIYAH 10</big><small></br>Surakarta</small><center>
-  <p class="lead">+ Parallax Effect using jQuery</p>
 </div>
 
 
