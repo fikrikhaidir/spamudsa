@@ -403,7 +403,9 @@ hr{
 	text-align: right;
 }
 
-.
+.progress-bar{
+	column-rule-color: red;
+}
 
 /* Prestasi */
 
